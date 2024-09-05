@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777807923074",
+    "project_id": "dish-hub-38f51",
+    "storage_bucket": "dish-hub-38f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777807923074:android:3b089068f46aceb3cef19b",
+        "android_client_info": {
+          "package_name": "com.collins.example.dishi_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswnuLRbC4Vx-iH5byExLHJ1Z2Pws-Vgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777807923074:android:6681435bbd1dc2e4cef19b",
+        "android_client_info": {
+          "package_name": "com.collins.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswnuLRbC4Vx-iH5byExLHJ1Z2Pws-Vgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
